@@ -73,3 +73,5 @@ Acá configuramos las tablas de enrutamiento y se ligan a la VPC determinada.
 
 Tengo que regresar a VPC/Route table/practica5_public/subnet associations/eddit subnet associations  y asociar la subredpublica_201020126 con IP 10.0.1.0/24
 
+## Load Balancer
+lbp5201020126-1635633943.us-east-2.elb.amazonaws.com
