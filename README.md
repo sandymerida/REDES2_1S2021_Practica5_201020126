@@ -44,6 +44,7 @@
 |subredpublica_201020126|10.0.1.0/24|
 |subredprivada_201020126|10.0.2.0/24|
 <br>
+
 - Cada subnet esta ligada a la VPC determinada
 - A la subnet publica se le modifica el auto-assign IP settings, se activa la opción *Enable auto-assign public IPv4 address*
 
